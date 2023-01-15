@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/comradebear/pm0_v3/german_default/waffenfarbe/gd_waffenfarbe_col"
+	$color2 "{ 255 153 204 }"
+	$translucent 1
+}
